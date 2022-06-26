@@ -91,7 +91,7 @@
                     "ModelIdNum": 3602,
                     "ObjectType": 13,
                     "XPos": -320,
-                    "YPos": -62,
+                    "YPos": -63,
                     "ZPos": -384,
                     "XRotation": 0,
                     "YRotation": -1024,
@@ -102,7 +102,7 @@
                     "ModelIdNum": 3619,
                     "ObjectType": 13,
                     "XPos": -192,
-                    "YPos": -62,
+                    "YPos": -63,
                     "ZPos": -443,
                     "XRotation": 0,
                     "YRotation": -512,
@@ -113,7 +113,7 @@
                     "ModelIdNum": 31625,
                     "ObjectType": 13,
                     "XPos": -256,
-                    "YPos": -62,
+                    "YPos": -63,
                     "ZPos": -384,
                     "XRotation": 0,
                     "YRotation": 0,
@@ -124,7 +124,7 @@
                     "ModelIdNum": 31627,
                     "ObjectType": 13,
                     "XPos": -128,
-                    "YPos": 1,
+                    "YPos": 0,
                     "ZPos": -384,
                     "XRotation": 0,
                     "YRotation": -1024,
@@ -478,7 +478,7 @@
                     "ModelIdNum": 41310,
                     "ObjectType": 0,
                     "XPos": -84,
-                    "YPos": -14,
+                    "YPos": -15,
                     "ZPos": -414,
                     "XScale": 0.5,
                     "YScale": 0.5,
@@ -492,7 +492,7 @@
                     "ModelIdNum": 41811,
                     "ObjectType": 3,
                     "XPos": -83,
-                    "YPos": 16,
+                    "YPos": 17,
                     "ZPos": -415,
                     "XScale": 0.5,
                     "YScale": 0.5,
@@ -554,7 +554,7 @@
                     "XPos": -182,
                     "YPos": -16,
                     "ZPos": 130,
-                    "XScale": 0.8999967,
+                    "XScale": 0.8999963,
                     "XRotation": -1536,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2245,7 +2245,7 @@
                     "YPos": 200,
                     "ZPos": 127,
                     "XScale": 0.7999997,
-                    "YScale": 0.7999998,
+                    "YScale": 0.7999997,
                     "ZScale": 0.7999991,
                     "XRotation": -472,
                     "YRotation": -512,
@@ -2715,7 +2715,7 @@
                     "ObjectType": 13,
                     "XPos": -65,
                     "YPos": -127,
-                    "ZPos": -64,
+                    "ZPos": -63,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2747,7 +2747,7 @@
                     "ModelIdNum": 3600,
                     "ObjectType": 13,
                     "XPos": -128,
-                    "YPos": -63,
+                    "YPos": -64,
                     "ZPos": -317,
                     "XRotation": 0,
                     "YRotation": -512,
@@ -2835,7 +2835,7 @@
                     "ModelIdNum": 4604,
                     "ObjectType": 0,
                     "XPos": -316,
-                    "YPos": -56,
+                    "YPos": -57,
                     "ZPos": -383,
                     "YScale": 0.4999999,
                     "XRotation": -512,
@@ -2870,7 +2870,7 @@
                     "ObjectType": 0,
                     "XPos": -125,
                     "YPos": -127,
-                    "ZPos": -5,
+                    "ZPos": -7,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2881,7 +2881,7 @@
                     "ObjectType": 0,
                     "XPos": 128,
                     "YPos": -254,
-                    "ZPos": -134,
+                    "ZPos": -136,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2925,7 +2925,7 @@
                     "ObjectType": 0,
                     "XPos": 132,
                     "YPos": -127,
-                    "ZPos": -5,
+                    "ZPos": -7,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2936,7 +2936,7 @@
                     "ObjectType": 0,
                     "XPos": -128,
                     "YPos": -254,
-                    "ZPos": -261,
+                    "ZPos": -263,
                     "XRotation": 0,
                     "YRotation": -1024,
                     "ZRotation": 0
@@ -2991,7 +2991,7 @@
                     "ObjectType": 0,
                     "XPos": 133,
                     "YPos": -264,
-                    "ZPos": -194,
+                    "ZPos": -196,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -3002,7 +3002,7 @@
                     "ObjectType": 0,
                     "XPos": 64,
                     "YPos": -264,
-                    "ZPos": -194,
+                    "ZPos": -196,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -3013,7 +3013,7 @@
                     "ObjectType": 0,
                     "XPos": -63,
                     "YPos": -264,
-                    "ZPos": -194,
+                    "ZPos": -196,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -3024,7 +3024,7 @@
                     "ObjectType": 0,
                     "XPos": -124,
                     "YPos": -264,
-                    "ZPos": -194,
+                    "ZPos": -196,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -3035,7 +3035,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -300,
-                    "ZPos": -115,
+                    "ZPos": -117,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -256
@@ -3046,7 +3046,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -389,
-                    "ZPos": -205,
+                    "ZPos": -207,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -256
@@ -3057,7 +3057,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -297,
-                    "ZPos": -267,
+                    "ZPos": -269,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -1792
@@ -3068,7 +3068,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -388,
-                    "ZPos": -177,
+                    "ZPos": -179,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -1792
@@ -3079,7 +3079,7 @@
                     "ObjectType": 0,
                     "XPos": 124,
                     "YPos": -261,
-                    "ZPos": -63,
+                    "ZPos": -65,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -3090,7 +3090,7 @@
                     "ObjectType": 0,
                     "XPos": -129,
                     "YPos": -261,
-                    "ZPos": -63,
+                    "ZPos": -65,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -3369,6 +3369,61 @@
                     "XRotation": 0,
                     "YRotation": -1024,
                     "ZRotation": 0
+                },
+                {
+                    "ModelId": "62319",
+                    "ModelIdNum": 62319,
+                    "ObjectType": 0,
+                    "XPos": 0,
+                    "YPos": -261,
+                    "ZPos": -65,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "62319",
+                    "ModelIdNum": 62319,
+                    "ObjectType": 0,
+                    "XPos": -129,
+                    "YPos": -261,
+                    "ZPos": 65,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "62319",
+                    "ModelIdNum": 62319,
+                    "ObjectType": 0,
+                    "XPos": 128,
+                    "YPos": -261,
+                    "ZPos": 65,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4607",
+                    "ModelIdNum": 4607,
+                    "ObjectType": 13,
+                    "XPos": -191,
+                    "YPos": -127,
+                    "ZPos": 51,
+                    "XRotation": 0,
+                    "YRotation": -1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4600",
+                    "ModelIdNum": 4600,
+                    "ObjectType": 0,
+                    "XPos": -128,
+                    "YPos": -124,
+                    "ZPos": -313,
+                    "XRotation": 0,
+                    "YRotation": -1024,
+                    "ZRotation": -512
                 }
             ],
             "BlockFlatObjectRecords": [
@@ -4599,7 +4654,7 @@
                 {
                     "Position": 0,
                     "XPos": -96,
-                    "YPos": 0,
+                    "YPos": -1,
                     "ZPos": -354,
                     "TextureArchive": 181,
                     "TextureRecord": 2,
@@ -4639,7 +4694,7 @@
                 {
                     "Position": 4,
                     "XPos": -201,
-                    "YPos": 0,
+                    "YPos": -1,
                     "ZPos": -352,
                     "TextureArchive": 183,
                     "TextureRecord": 2,
@@ -4735,15 +4790,6 @@
                 },
                 {
                     "Position": 5,
-                    "XPos": -151,
-                    "YPos": 84,
-                    "ZPos": 69,
-                    "YRotation": 0,
-                    "OpenRotation": 90,
-                    "DoorModelIndex": 0
-                },
-                {
-                    "Position": 6,
                     "XPos": -318,
                     "YPos": 84,
                     "ZPos": -105,
@@ -4752,7 +4798,7 @@
                     "DoorModelIndex": 0
                 },
                 {
-                    "Position": 7,
+                    "Position": 6,
                     "XPos": -187,
                     "YPos": 213,
                     "ZPos": -105,

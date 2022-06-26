@@ -780,10 +780,10 @@
                 {
                     "ModelId": "31622",
                     "ModelIdNum": 31622,
-                    "ObjectType": 13,
-                    "XPos": 128,
-                    "YPos": 259,
-                    "ZPos": 124,
+                    "ObjectType": 0,
+                    "XPos": 384,
+                    "YPos": 129,
+                    "ZPos": 252,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2348,10 +2348,10 @@
                 {
                     "ModelId": "31622",
                     "ModelIdNum": 31622,
-                    "ObjectType": 0,
-                    "XPos": 384,
-                    "YPos": 129,
-                    "ZPos": 252,
+                    "ObjectType": 13,
+                    "XPos": 128,
+                    "YPos": 259,
+                    "ZPos": 124,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2428,7 +2428,7 @@
                     "ObjectType": 0,
                     "XPos": -125,
                     "YPos": -124,
-                    "ZPos": 118,
+                    "ZPos": 117,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2439,7 +2439,7 @@
                     "ObjectType": 0,
                     "XPos": 128,
                     "YPos": -251,
-                    "ZPos": -11,
+                    "ZPos": -12,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2450,7 +2450,7 @@
                     "ObjectType": 0,
                     "XPos": 132,
                     "YPos": -124,
-                    "ZPos": 118,
+                    "ZPos": 117,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2461,7 +2461,7 @@
                     "ObjectType": 0,
                     "XPos": -128,
                     "YPos": -251,
-                    "ZPos": -138,
+                    "ZPos": -139,
                     "XRotation": 0,
                     "YRotation": -1024,
                     "ZRotation": 0
@@ -2483,7 +2483,7 @@
                     "ObjectType": 0,
                     "XPos": 133,
                     "YPos": -261,
-                    "ZPos": -71,
+                    "ZPos": -72,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2494,7 +2494,7 @@
                     "ObjectType": 0,
                     "XPos": 64,
                     "YPos": -261,
-                    "ZPos": -71,
+                    "ZPos": -72,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2505,7 +2505,7 @@
                     "ObjectType": 0,
                     "XPos": -63,
                     "YPos": -261,
-                    "ZPos": -71,
+                    "ZPos": -72,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2516,7 +2516,7 @@
                     "ObjectType": 0,
                     "XPos": -124,
                     "YPos": -261,
-                    "ZPos": -71,
+                    "ZPos": -72,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -2527,7 +2527,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -297,
-                    "ZPos": 8,
+                    "ZPos": 7,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -256
@@ -2538,7 +2538,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -386,
-                    "ZPos": -82,
+                    "ZPos": -83,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -256
@@ -2549,7 +2549,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -294,
-                    "ZPos": -144,
+                    "ZPos": -145,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -1792
@@ -2560,7 +2560,7 @@
                     "ObjectType": 0,
                     "XPos": 3,
                     "YPos": -385,
-                    "ZPos": -54,
+                    "ZPos": -55,
                     "XRotation": 0,
                     "YRotation": -512,
                     "ZRotation": -1792
@@ -2571,7 +2571,7 @@
                     "ObjectType": 0,
                     "XPos": -129,
                     "YPos": -258,
-                    "ZPos": 60,
+                    "ZPos": 59,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2593,7 +2593,7 @@
                     "ObjectType": 0,
                     "XPos": -5,
                     "YPos": -258,
-                    "ZPos": 60,
+                    "ZPos": 59,
                     "XRotation": 0,
                     "YRotation": 0,
                     "ZRotation": 0
@@ -2604,7 +2604,7 @@
                     "ObjectType": 0,
                     "XPos": 125,
                     "YPos": -258,
-                    "ZPos": 60,
+                    "ZPos": 59,
                     "XScale": 1.1,
                     "XRotation": 0,
                     "YRotation": 0,
@@ -2719,6 +2719,28 @@
                     "ZPos": 124,
                     "XRotation": 0,
                     "YRotation": -1024,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4607",
+                    "ModelIdNum": 4607,
+                    "ObjectType": 13,
+                    "XPos": -191,
+                    "YPos": -127,
+                    "ZPos": 175,
+                    "XRotation": 0,
+                    "YRotation": -1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4600",
+                    "ModelIdNum": 4600,
+                    "ObjectType": 0,
+                    "XPos": 321,
+                    "YPos": 128,
+                    "ZPos": 253,
+                    "XRotation": -512,
+                    "YRotation": 0,
                     "ZRotation": 0
                 }
             ],

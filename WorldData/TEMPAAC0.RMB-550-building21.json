@@ -963,7 +963,7 @@
                     "XPos": -194,
                     "YPos": 131,
                     "ZPos": 359,
-                    "XScale": 0.7599977,
+                    "XScale": 0.7599975,
                     "XRotation": -1536,
                     "YRotation": -512,
                     "ZRotation": 0
@@ -1413,7 +1413,7 @@
                     "ModelIdNum": 31622,
                     "ObjectType": 13,
                     "XPos": -256,
-                    "YPos": 129,
+                    "YPos": 128,
                     "ZPos": -192,
                     "XRotation": 0,
                     "YRotation": -1536,
@@ -2287,6 +2287,62 @@
                     "XScale": 1.08,
                     "XRotation": 0,
                     "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4600",
+                    "ModelIdNum": 4600,
+                    "ObjectType": 0,
+                    "XPos": -123,
+                    "YPos": -125,
+                    "ZPos": -249,
+                    "XRotation": 0,
+                    "YRotation": -1024,
+                    "ZRotation": -512
+                },
+                {
+                    "ModelId": "62319",
+                    "ModelIdNum": 62319,
+                    "ObjectType": 0,
+                    "XPos": -129,
+                    "YPos": -261,
+                    "ZPos": 128,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "62319",
+                    "ModelIdNum": 62319,
+                    "ObjectType": 0,
+                    "XPos": 129,
+                    "YPos": -261,
+                    "ZPos": 128,
+                    "XRotation": 0,
+                    "YRotation": 0,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4607",
+                    "ModelIdNum": 4607,
+                    "ObjectType": 13,
+                    "XPos": -191,
+                    "YPos": -127,
+                    "ZPos": 115,
+                    "XRotation": 0,
+                    "YRotation": -1536,
+                    "ZRotation": 0
+                },
+                {
+                    "ModelId": "4600",
+                    "ModelIdNum": 4600,
+                    "ObjectType": 0,
+                    "XPos": -287,
+                    "YPos": -1,
+                    "ZPos": -252,
+                    "YScale": 0.49,
+                    "XRotation": -512,
+                    "YRotation": -512,
                     "ZRotation": 0
                 }
             ],
@@ -3682,7 +3738,7 @@
                 {
                     "Position": 3,
                     "XPos": -65,
-                    "YPos": 84,
+                    "YPos": 83,
                     "ZPos": 343,
                     "YRotation": -512,
                     "OpenRotation": 90,
@@ -3699,15 +3755,6 @@
                 },
                 {
                     "Position": 5,
-                    "XPos": 105,
-                    "YPos": 83,
-                    "ZPos": 260,
-                    "YRotation": 0,
-                    "OpenRotation": 90,
-                    "DoorModelIndex": 0
-                },
-                {
-                    "Position": 6,
                     "XPos": 361,
                     "YPos": 83,
                     "ZPos": 133,
@@ -3716,7 +3763,7 @@
                     "DoorModelIndex": 0
                 },
                 {
-                    "Position": 7,
+                    "Position": 6,
                     "XPos": 68,
                     "YPos": 212,
                     "ZPos": 87,
