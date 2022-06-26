@@ -16,8 +16,6 @@ namespace DaggerfallWorkshop.Game.Guilds
             return IsMember();
         }
     }
-if (!GuildManager.RegisterCustomGuild(FactionFile.GuildGroups.HolyOrder, typeof(TempleFMR)))
-    Debug.Log("Unable to register Temple guild class override.");    
 }
 
 
