@@ -2349,7 +2349,7 @@
             "BlockFlatObjectRecords": [
                 {
                     "Position": 0,
-                    "XPos": 131,
+                    "XPos": 132,
                     "YPos": -148,
                     "ZPos": -126,
                     "TextureArchive": 210,
@@ -3705,6 +3705,16 @@
                     "TextureRecord": 10,
                     "FactionID": 469,
                     "Flags": 33
+                },
+                {
+                    "Position": 4113,
+                    "XPos": -101,
+                    "YPos": -1,
+                    "ZPos": 290,
+                    "TextureArchive": 183,
+                    "TextureRecord": 5,
+                    "FactionID": 402,
+                    "Flags": 0
                 }
             ],
             "BlockDoorRecords": [
