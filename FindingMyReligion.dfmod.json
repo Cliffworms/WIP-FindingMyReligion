@@ -1,6 +1,6 @@
 {
     "ModTitle": "Finding My Religion",
-    "ModVersion": "1.2.0",
+    "ModVersion": "1.20",
     "ModAuthor": "Cliffworms",
     "DFUnity_Version": "1.0.0",
     "ModDescription": "Overhauls the visuals and gameplay of Daggerfall's religions. Current release : Detailed Temples",
@@ -57,9 +57,9 @@
         "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAB0.RMB-549-building16.json",
         "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAA0.RMB-686-building0.json",
         "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAD0.RMB-551-building22.json",
-        "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAE0.RMB-552-building0.json",
         "Assets/Game/Mods/FindingMyReligion/FindingMyReligion.dfmod.json",
-        "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAF0.RMB-553-building21.json"
+        "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAF0.RMB-553-building21.json",
+        "Assets/Game/Mods/FindingMyReligion/WorldData/TEMPAAE0.RMB.json"
     ],
     "Dependencies": [
         {
@@ -77,6 +77,21 @@
             "IsOptional": false,
             "IsPeer": false,
             "Version": "0.6.3"
+        },
+        {
+            "Name": "ublamf - map blocks addon",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "unofficial block, location and model fixes",
+            "IsOptional": true,
+            "IsPeer": false
+        },
+        {
+            "Name": "transparent windows",
+            "IsOptional": true,
+            "IsPeer": false
         }
     ]
 }

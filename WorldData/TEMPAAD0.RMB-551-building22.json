@@ -807,7 +807,7 @@
                     "XPos": 275,
                     "YPos": 133,
                     "ZPos": -264,
-                    "XScale": 0.7899978,
+                    "XScale": 0.7899977,
                     "YScale": 0.6199998,
                     "XRotation": -1536,
                     "YRotation": -512,
@@ -1738,28 +1738,6 @@
                     "ZPos": 124,
                     "XRotation": 0,
                     "YRotation": -1024,
-                    "ZRotation": 0
-                },
-                {
-                    "ModelId": "45141",
-                    "ModelIdNum": 45141,
-                    "ObjectType": 0,
-                    "XPos": -185,
-                    "YPos": -90,
-                    "ZPos": -244,
-                    "XRotation": 0,
-                    "YRotation": -512,
-                    "ZRotation": 0
-                },
-                {
-                    "ModelId": "45141",
-                    "ModelIdNum": 45141,
-                    "ObjectType": 0,
-                    "XPos": -71,
-                    "YPos": -90,
-                    "ZPos": -244,
-                    "XRotation": 0,
-                    "YRotation": -1536,
                     "ZRotation": 0
                 },
                 {
