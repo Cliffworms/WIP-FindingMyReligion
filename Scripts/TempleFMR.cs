@@ -1,7 +1,7 @@
 // Project:         FindingMyReligion for Daggerfall Unity (http://www.dfworkshop.net)
-// Copyright:       Copyright (C) 2022 Cliffworms
+// Copyright:       Copyright (C) 2022 Hazelnut
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
-// Author:          Cliffworms
+// Author:          Hazelnut
 
 namespace DaggerfallWorkshop.Game.Guilds
 {
